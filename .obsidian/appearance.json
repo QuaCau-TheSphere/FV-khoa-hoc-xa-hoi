@@ -1,6 +1,11 @@
 {
-  "baseFontSize": 16,
-  "theme": "moonstone",
-  "cssTheme": "",
-  "accentColor": ""
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Catppuccin",
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "enabledCssSnippets": [
+    "style-importer",
+    "MCL Wide Views"
+  ]
 }

@@ -1,2 +1,0 @@
-- Chonen [[Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật]]
-- Chonen [[Chính phủ kiểm soát người dân]]

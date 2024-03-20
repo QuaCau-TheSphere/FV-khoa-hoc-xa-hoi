@@ -1,72 +1,35 @@
 {
   "main": {
-    "id": "15d83e7afc623a51",
+    "id": "831d85164d01ca88",
     "type": "split",
     "children": [
       {
-        "id": "91aacd3e1294d354",
+        "id": "48bbef509c90b0e9",
         "type": "tabs",
         "children": [
           {
-            "id": "494854127bcb7f7a",
+            "id": "5bfe76caeb6174ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "ee713612f74a7faf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tính chuyên chế của chế độ nhân tài.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "fef7ec1bd5db8f7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Khoa học.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "68aceea0e884f9d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hậu hiện đại không phải là sự phát triển tiếp theo sau hiện đại, mà là sự hoàn thiện hơn của hiện đại.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "55811ebac5eef06e",
+    "id": "200797c3ceecf6b6",
     "type": "split",
     "children": [
       {
-        "id": "342dfcebacff5eb2",
+        "id": "1fc05884ff0e58cd",
         "type": "tabs",
         "children": [
           {
-            "id": "24ad9a889da1ab86",
+            "id": "8df4115b70014980",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -76,7 +39,7 @@
             }
           },
           {
-            "id": "aaf4cacad561dbac",
+            "id": "4c148c657008221a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -91,7 +54,7 @@
             }
           },
           {
-            "id": "251928f8c468cb29",
+            "id": "2ed5a115d7403bff",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -105,20 +68,19 @@
     "width": 300
   },
   "right": {
-    "id": "fe251d6e21ef6cf2",
+    "id": "c337a3ea5e852bbb",
     "type": "split",
     "children": [
       {
-        "id": "dc4b2d98216c2ba5",
+        "id": "68c978a776f01070",
         "type": "tabs",
         "children": [
           {
-            "id": "f7bc778e7942404f",
+            "id": "69b629f2ddf0bd4a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hậu hiện đại không phải là sự phát triển tiếp theo sau hiện đại, mà là sự hoàn thiện hơn của hiện đại.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,19 +92,18 @@
             }
           },
           {
-            "id": "0a7d0f66984370b5",
+            "id": "324e889c539d5364",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hậu hiện đại không phải là sự phát triển tiếp theo sau hiện đại, mà là sự hoàn thiện hơn của hiện đại.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a66e9d5de828a61e",
+            "id": "a10401d29c8d2ca0",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -153,13 +114,11 @@
             }
           },
           {
-            "id": "520759a369e79742",
+            "id": "f810395d29380df6",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency"
-              }
+              "type": "outline",
+              "state": {}
             }
           }
         ]
@@ -174,25 +133,62 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "adjacency-matrix-maker:Adjacency Matrix": false,
-      "obsidian-journey-plugin:Find Journey": false
+      "notion-like-tables:Create loom": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "68aceea0e884f9d2",
+  "active": "5bfe76caeb6174ae",
   "lastOpenFiles": [
-    "Khoa học.md",
-    "Hậu hiện đại không phải là sự phát triển tiếp theo sau hiện đại, mà là sự hoàn thiện hơn của hiện đại.md",
-    "Tính chuyên chế của chế độ nhân tài.md",
-    "Kiến thức, ngôn ngữ, thông diễn/Tri thức là sức mạnh.md",
-    "Cảm xúc/Cái cốt yếu thì không thể dùng mắt để thấy được, mà phải dùng tim để cảm nhận.md",
-    "Give them an inch and they will take a mile.md",
-    "Quy luật cuộc sống/Bản chất con người/Nếu có kẽ hở thì sẽ có người khai thác.md",
-    "Kiến thức, ngôn ngữ, thông diễn/Thay vì nói lý thuyết thì tốt nhất là nên bắt tay vào thực hành.md",
-    "Quy luật cuộc sống/Nếu không thấy hợp lý thì không đáng lắng nghe.md",
-    "Quy luật cuộc sống/Hãy thích ứng linh hoạt với cuộc sống.md",
-    "Tâm linh/Logic/Không có gì là đúng, không có gì là sai.md",
-    "Quy luật cuộc sống/Mọi thứ chỉ là sự phù hợp.md",
-    "Quy luật cuộc sống/Không có gì là sai nếu lo cho bản thân trước.md"
+    "Untitled.md",
+    "Phạm Đình Minh.md",
+    "📐 Dự án/Phạm Đình Minh.md",
+    "⚡ Hiểu biết sâu/Khoa học.md",
+    "⚡ Hiểu biết sâu/Hậu hiện đại không phải là sự phát triển tiếp theo sau hiện đại, mà là sự hoàn thiện hơn của hiện đại.md",
+    "⚡ Hiểu biết sâu/Bằng chứng pháp lý, bằng chứng khoa học.md",
+    "⚡ Hiểu biết sâu/Sự đồng thuận ở quy mô lớn tạo ra vấn đề về đa số - thiểu số, vấn đề về trung tâm quyền lực, vấn đề về sự kịp thời.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Give them an inch and they will take a mile.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tự trị, can thiệp, hiểu về người khác/Người ngoài không có tư cách thay họ.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tự trị, can thiệp, hiểu về người khác/Miễn điều mình làm không gây ảnh hưởng đến người khác là được.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tự trị, can thiệp, hiểu về người khác/Không phải việc của mình thì đừng có xía vào.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tự trị, can thiệp, hiểu về người khác",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Luật pháp - nhân quyền/Luật cần phải công bằng, nếu cái gì không công bằng thì không phải là luật.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Luật pháp - nhân quyền/Luật là để bảo vệ công bằng, công lý.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Để đến lúc nhận ra hậu quả thì đã trễ rồi.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Số phận là do ta quyết định.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Nếu cảm thấy thoải mái thì mọi chuyện vẫn đang tốt đẹp.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Luật pháp - nhân quyền",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại/Dũng cảm nói không với cái sai, nói không với điều phi lý.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Thay đổi thực tại",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Tự nhiên/Tự nhiên sẽ cân bằng mọi thứ.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Logic/Đúng với sai là một.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Logic/Khoa học không bao giờ tới được tâm linh.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Tự nhiên",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Logic",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh/Hãy sống trong hiện tại.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Tâm linh",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Xã hội/Sẽ luôn có người làm hại mình.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Bản chất con người/Con người có tính xã hội cao.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Xã hội",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Tương lai không đoán trước được.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Thứ bỏ đi thì không đáng tốn thời gian để tìm hiểu nó kỹ hơn.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Phải tránh mọi rủi ro.md",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống/Bản chất con người",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Quy luật cuộc sống",
+    "⚡ Hiểu biết sâu/Niềm tin phổ biến/Nghệ thuật, văn hoá đại chúng, truyền thông",
+    "Ξ Thiết lập/Ảnh/Đồ thị nhu cầu.svg",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240221020431.png",
+    "Ξ Thiết lập/Ảnh/Pasted image 20240216111339.png",
+    "Ξ Thiết lập/Ảnh/Trấn Kỳ/Demo.gif",
+    "Ξ Thiết lập/Ảnh/Trấn Kỳ/firefox_2024-02-14_20-32-48.gif",
+    "Ξ Thiết lập/Ảnh/Các buổi đáp ứng nhu cầu học lập trình/2. Một số nhu cầu công việc ví dụ và những sản phẩm và kiến thức cần có để làm được chúng.png",
+    "Ξ Thiết lập/Ảnh/Các buổi đáp ứng nhu cầu học lập trình/1. Điểm giống và khác của các mô hình học tập.png",
+    "Ξ Thiết lập/Ảnh/Các buổi đáp ứng nhu cầu học lập trình/Bàn làm việc Google Calendar.png",
+    "Ξ Thiết lập/Ảnh/Các buổi đáp ứng nhu cầu học lập trình/Bàn làm việc Google Calendar demo.png",
+    "Ξ Thiết lập/Ảnh/Các buổi đáp ứng nhu cầu học lập trình/Một số nhu cầu công việc ví dụ và những sản phẩm và kiến thức cần có để làm được chúng.png"
   ]
 }

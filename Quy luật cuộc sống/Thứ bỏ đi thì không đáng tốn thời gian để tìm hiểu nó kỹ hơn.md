@@ -1,1 +1,0 @@
-- Boivi [[Thật vô ích để thay đổi]], [[Nếu không thấy hợp lý thì không đáng lắng nghe]]

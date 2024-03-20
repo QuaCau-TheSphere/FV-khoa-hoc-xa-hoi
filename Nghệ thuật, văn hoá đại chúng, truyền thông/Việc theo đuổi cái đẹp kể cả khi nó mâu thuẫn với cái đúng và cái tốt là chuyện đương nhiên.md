@@ -1,1 +1,0 @@
-- Boivi [[Chỉ có cảm xúc là đúng nhất]] [[Thật vô nghĩa khi trách những người theo đuổi cái đẹp là chẳng làm được việc gì]]

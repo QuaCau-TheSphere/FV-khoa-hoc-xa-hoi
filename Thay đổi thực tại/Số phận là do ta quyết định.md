@@ -1,2 +1,0 @@
-- Chonen [[Hãy nuôi dưỡng sự hy vọng]] 
-- Mauthuanvoi [[Mọi thứ đều là sự sắp đặt của số phận]], [[Mọi thứ chỉ là sự phù hợp]]

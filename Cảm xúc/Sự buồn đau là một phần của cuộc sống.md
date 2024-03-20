@@ -1,1 +1,0 @@
-- Boivi [[Chỉ có cảm xúc là đúng nhất]] [[Thật vô ích để thay đổi]]

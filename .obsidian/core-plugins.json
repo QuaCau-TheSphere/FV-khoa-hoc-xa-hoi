@@ -7,11 +7,12 @@
   "canvas",
   "outgoing-link",
   "tag-pane",
-  "properties",
   "page-preview",
+  "daily-notes",
   "note-composer",
   "command-palette",
+  "editor-status",
   "bookmarks",
-  "word-count",
+  "outline",
   "file-recovery"
 ]

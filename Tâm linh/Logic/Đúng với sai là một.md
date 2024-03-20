@@ -1,2 +1,0 @@
-- Boivi [[Không có gì là đúng, không có gì là sai]]
-- Chonen [[Dùng logic là nhị nguyên]] [[Nếu đã giác ngộ thì sẽ biết hết tất cả]]
